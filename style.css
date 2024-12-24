@@ -1,0 +1,99 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+ .div1{
+    margin-left: 100px;
+    margin-right: 100px;
+ font-size: 18px;
+ padding: 10px;
+}
+.div2{
+    margin-left: 100px;
+    margin-right: 100px;
+ font-size: 14px;
+ padding: 10px;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-color:#18bc9c;
+    padding: 85px;
+    font-size: 50px;
+}
+img{
+ margin: 30px
+}
+.content{
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   color: #999;
+   margin: 25px;
+
+}
+.div2{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #999;
+}
+.img1{
+    height: 300px;
+   width: 200px;
+border: 1px;
+padding: 55px;
+margin: 10px;
+background-color: white;
+}
+.grid{
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    background-color: #f4f7fa;
+    }
+
+    .footer{
+        background-color: #2c3e50;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+    }
+    .Subscribe{
+        font-size: 30px;
+    padding-right: 400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    min-height: 1px;
+    box-sizing: border-box;
+    font-weight: bold;
+    }
+    .Aboutus{
+        font-size: 30px;
+       padding: 50px;
+    }
+    .Contactus{
+        font-size: 30px;
+        padding: 50px;
+    }
